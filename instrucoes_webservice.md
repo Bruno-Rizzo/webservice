@@ -1,7 +1,7 @@
 
 Webservice Flutter
 
-1 - importar biblioteca http e nomear ( as... )
+1 - importar biblioteca http e nomear ( as... ) e adicioná-la no pubspec.yal nas dependências  ex: http: ^0.12.0+4
 
 2 - importar dart:convert
 
